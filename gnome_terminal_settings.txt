@@ -1,0 +1,25 @@
+[legacy]
+theme-variant='dark'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(0,0,0)'
+background-transparency-percent=18
+bold-color-same-as-fg=true
+bold-is-bright=false
+cursor-background-color='rgb(255,136,0)'
+cursor-colors-set=false
+cursor-foreground-color='rgb(255,255,255)'
+custom-command=''
+default-size-columns=128
+default-size-rows=32
+font='IosevkaTerm Nerd Font Mono 13'
+foreground-color='rgb(255,136,0)'
+login-shell=false
+palette=['rgb(23,20,33)', 'rgb(255,0,0)', 'rgb(204,136,255)', 'rgb(221,170,0)', 'rgb(255,0,170)', 'rgb(179,0,255)', 'rgb(255,136,0)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,209,122)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='RobustSeagull'
